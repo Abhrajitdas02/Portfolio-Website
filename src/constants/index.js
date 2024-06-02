@@ -120,7 +120,7 @@ const experiences = [
     icon: kiit,
     date: "Sept 2021 - Present",
     points: [
-      "Currently pursuing my 7th sem in CSE with a CGPA of 8.83, have participated in numerous hackathons with my fellow teamates like SIH. Learning an developing Full Stack along with Machine Learning Algorithms. Part of Societies like Qutopia nd KindleKnack."
+      "Currently pursuing my 7th sem B.Tech in CSE, have participated in numerous hackathons with my fellow teamates like SIH. Learning an developing Full Stack along with Machine Learning Algorithms. Part of Societies like Qutopia nd KindleKnack."
     ],
   },
   {
@@ -130,7 +130,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Mar 2019 - Jun 2021",
     points: [
-      "cOMPLETED ISC with 93.2% in Science scoring 100 in Computer, participated in various coding challenges and exhibitions winning some.",
+      "completed ISC with 93.2% in Science scoring 100 in Computer, participated in various coding challenges and exhibitions winning some.",
     ],
   },
   {
