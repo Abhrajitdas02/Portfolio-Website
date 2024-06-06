@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Abhrajitdas02.github.io/Portfolio-Website",
+  "homepage": "https://Abhrajitdas02.github.io",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -16,6 +16,7 @@
     "@emailjs/browser": "^4.3.3",
     "@react-three/drei": "^9.105.6",
     "@react-three/fiber": "^8.16.6",
+    "file-saver": "^2.0.5",
     "framer-motion": "^11.2.6",
     "maath": "^0.10.7",
     "react": "^18.2.0",
