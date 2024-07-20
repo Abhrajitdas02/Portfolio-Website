@@ -32,6 +32,12 @@ import kiit from "./Education/kiit.png";
 import stjoans from "./Education/stjoans.png";
 
 import Mediquity from "./Projects/Mediquity.png";
+import BlogPost from "./Projects/BlogPost.png";
+import chess from "./Projects/chess.png";
+import DEX from "./Projects/DEX.png";
+import imageAI from "./Projects/imageAI.png";
+import SalesSavvy from "./Projects/SalesSavvy.png";
+import SnapTalk from "./Projects/SnapTalk.png";
 import SpamDetective from "./Projects/SpamDetective.png";
 import myCube from "./Projects/myCube.png";
 import ChatScribe from "./Projects/ChatScribe.png";
@@ -68,6 +74,12 @@ export {
   kiit,
   stjoans,
   Mediquity,
+  SalesSavvy,
+  BlogPost,
+  SnapTalk,
+  chess,
+  DEX,
+  imageAI,
   SpamDetective,
   myCube,
   ChatScribe
